@@ -7,6 +7,6 @@ SWE Intern @ Oveo AI
 
 - EX SDE @ Qubetics 
 
-Contact Information:
-  • Email: salehyahya10.20@gmail.com
-  • Linkedln: https://www.linkedin.com/in/salehyahya1/
+**Contact Information**  
+- Email: [salehyahya10.20@gmail.com](mailto:salehyahya10.20@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/salehyahya1/](https://www.linkedin.com/in/salehyahya1/)
