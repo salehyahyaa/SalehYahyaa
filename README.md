@@ -7,6 +7,6 @@ Summer 2025
 
 **EX SDE @ Qubetics**
 
-**Contact Information**  
+**Contact Information:**  
 - Email: [salehyahya10.20@gmail.com](mailto:salehyahya10.20@gmail.com)  
 - LinkedIn: [https://www.linkedin.com/in/salehyahya1/](https://www.linkedin.com/in/salehyahya1/)
