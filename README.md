@@ -1,8 +1,8 @@
 Summer 2025
 ---
-**SWE Intern @ Oveo AI**
+SWE Intern @ Oveo AI
 
-**EX SDE @ Qubetics**
+EX SDE @ Qubetics
 
 Education
 ---
