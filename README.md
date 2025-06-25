@@ -1,5 +1,7 @@
-B.S. in Computer Science & Information Technology @ Lewis University
+Education
 ---
+B.S. in Computer Science & Information Technology @ Lewis University
+
 Summer 2025
 ---
 **SWE Intern @ Oveo AI**
