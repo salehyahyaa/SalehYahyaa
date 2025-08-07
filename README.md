@@ -1,11 +1,10 @@
 **B.S. in Computer Science & Information Technology @ Lewis University**
 ---
 
-Summer 2025
+FALL 2025
 ---
-SWE Intern @ Oveo AI
 
-EX SDE @ Qubetics
+EX SWE @ OveoAI
 
 **Reach Me:** 
 ---
