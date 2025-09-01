@@ -1,11 +1,16 @@
 **M.S. Computer Science, B.S. Computer Science, B.S Information Technology @ Lewis University**
 ---
 
+
 **Fall 2025**
 ---
 - Algorithms & Data Structure Course Assistant @ Lewis University
 - SWE Contributor @ Chromium
-- EX SWE @ OveoAI
+
+
+**Previous**
+---
+- SWEI @ OveoAI
 
 
 **Contact Information:** 
