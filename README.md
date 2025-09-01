@@ -1,4 +1,4 @@
-**M.S. in Computer Science (Dec 2027), B.S. in Computer Science + Information Technology @ Lewis University (Dec 2026)**
+**M.S. && B.S. in Computer Science + B.S. in Information Technology @ Lewis University**
 ---
 
 **Fall 2025**
