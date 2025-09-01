@@ -3,9 +3,9 @@
 
 **Fall 2025**
 ---
-**Algorithms & Data Structure Course Assistant @ Lewis University**
-**SWE Contributor @ Chromium**
-**EX SWE @ OveoAI**
+- Algorithms & Data Structure Course Assistant @ Lewis University
+- SWE Contributor @ Chromium
+- EX SWE @ OveoAI
 
 
 **Contact Information:** 
