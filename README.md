@@ -4,9 +4,8 @@
 
 **Fall 2025**
 ---
-- Algorithms & Data Structure Course Assistant @ Lewis University
-- SWE Contributor @ Chromium
-
+- ML Engineer Intern @ Paidworks
+- Undergrade Course Assistant @ Lewis University (DSA)
 
 **Previous**
 ---
