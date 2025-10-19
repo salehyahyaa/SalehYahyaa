@@ -3,8 +3,8 @@
 
 **Fall 2025**
 ---
-- ML Engineer Intern @ Paidworks
-- Quantative Reasearch Intern @ Lewis Unviersity //working on a real time stock prediction model with Dr.Chao
+- ML Engineer Intern @ Paidworks // verification & Identify team | Computer Vision
+- Quantative Reasearch Intern @ Lewis Unviersity //autotrading system based on ML
 - Undergrade Course Assistant @ Lewis University (DSA)
 
 **Previous**
