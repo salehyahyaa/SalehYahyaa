@@ -5,7 +5,7 @@ B.S. Computer Science + Information Technology @ Lewis University**
 ---
 - ML Engineer Intern @ Paidworks // verification & Identify team | Computer Vision
 - Quantative Reasearch Intern @ Lewis Unviersity //autotrading system based on ML
-- undergraduate Teaching Assistant @ Lewis University (DSA)
+- Undergraduate Teaching Assistant @ Lewis University (DSA)
 
 **Previous**
 ---
