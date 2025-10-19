@@ -1,4 +1,4 @@
-**M.S. Computer Science, B.S. Computer Science, B.S Information Technology @ Lewis University**
+B.S. Computer Science, B.S Information Technology @ Lewis University**
 ---
 
 **Fall 2025**
