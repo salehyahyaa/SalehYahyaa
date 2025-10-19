@@ -1,11 +1,10 @@
 **M.S. Computer Science, B.S. Computer Science, B.S Information Technology @ Lewis University**
 ---
 
-
 **Fall 2025**
 ---
 - ML Engineer Intern @ Paidworks
-- Quantative Reasearcher @ Lewis Unviersity //working on a real time stock prediction model with Dr.Chao
+- Quantative Reasearch Intern @ Lewis Unviersity //working on a real time stock prediction model with Dr.Chao
 - Undergrade Course Assistant @ Lewis University (DSA)
 
 **Previous**
