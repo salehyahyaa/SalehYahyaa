@@ -1,4 +1,4 @@
-B.S. Computer Science + Information Technology @ Lewis University**
+B.S, Computer Science | B.S, Information Technology @ Lewis University**
 ---
 
 
