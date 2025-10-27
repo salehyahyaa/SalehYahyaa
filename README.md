@@ -1,9 +1,12 @@
 B.S. Computer Science + Information Technology @ Lewis University**
 ---
 
-**Spring 2026**
+
+**Spring 2026** 
 ---
-SWE OS @ Chromium
+- SWE OS @ Chromium
+
+
 **Previous**
 ---
 - MLE Intern @ Paidworks 
