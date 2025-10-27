@@ -1,7 +1,7 @@
 B.S. Computer Science + Information Technology @ Lewis University**
 ---
 
-**Winter 2025**
+**Spring 2026**
 ---
 - MLE Intern @ Paidworks 
 - Quantative Reasearch Intern @ Lewis Unviersity
