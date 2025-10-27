@@ -3,13 +3,13 @@ B.S. Computer Science + Information Technology @ Lewis University**
 
 **Fall 2025**
 ---
-- MLE Intern @ Paidworks | Verifcation & Identity Computer Vision
-- Quantative Reasearch Intern @ Lewis Unviersity | autotrading system based on ML, Stock Data Analysis
+- MLE Intern @ Paidworks 
+- Quantative Reasearch Intern @ Lewis Unviersity
 - Undergraduate Teaching Assistant @ Lewis University 
 
 **Previous**
 ---
-- SWEI @ OveoAI
+- SWE Intern @ OveoAI
 
 
 **Contact Information:** 
