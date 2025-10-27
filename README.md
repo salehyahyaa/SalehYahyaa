@@ -3,12 +3,12 @@ B.S. Computer Science + Information Technology @ Lewis University**
 
 **Spring 2026**
 ---
-- MLE Intern @ Paidworks 
-- Quantative Reasearch Intern @ Lewis Unviersity
-- Undergraduate Teaching Assistant @ Lewis University 
 
 **Previous**
 ---
+- MLE Intern @ Paidworks 
+- Quantative Reasearch Intern @ Lewis Unviersity
+- Undergraduate Teaching Assistant @ Lewis University 
 - SWE Intern @ OveoAI
 
 
