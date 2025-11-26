@@ -13,7 +13,7 @@
 - MLE Intern @ Paidworks 
 - Quantative Reasearch Intern @ Lewis Unviersity
 - Undergraduate Teaching Assistant @ Lewis University 
-- SWE Intern @ OveoAI
+- SWE Intern @ Stealth Startup
 
 
 **Contact Information:** 
