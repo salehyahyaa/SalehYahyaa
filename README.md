@@ -7,7 +7,7 @@
 - SWE OS @ Chromium
 
 
-**Previous**
+**Previously**
 ---
 - MLE Intern @ Paidworks 
 - Quantative Reasearch Intern @ Lewis Unviersity
