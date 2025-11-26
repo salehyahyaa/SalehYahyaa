@@ -1,4 +1,4 @@
-**M.S ComputerScience @ UIUC | B.S ComputerScience, B.S. InformationTechnology @ LU**
+**M.S Computer Science @ UIUC | B.S Computer Science, Information Technology @ LU**
 ---
 
 **Spring 2026** 
