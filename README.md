@@ -1,4 +1,4 @@
-**M.S Computer Science @ UIUC | B.S, Computer Science && Information Technology @ Lewis University**
+**M.S CS @ UIUC | B.S CS && B.S. IT @ Lewis University**
 ---
 
 
