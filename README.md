@@ -15,7 +15,7 @@
 - Undergraduate Teaching Assistant @ Lewis University 
 - SWE Intern @ Stealth Startup
 
-**Primary Stack**
+**Primary Tech Stack**
 ---
 - C++
 - Python
