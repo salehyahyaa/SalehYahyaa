@@ -1,7 +1,7 @@
 **M.S Computer Science @ UIUC | B.S Computer Science, Information Technology @ LU**
 ---
 
-**Spring 2026** 
+**Currently** 
 ---
 
 
