@@ -11,7 +11,6 @@
 **Previously**
 ---
 - MLE Intern @ Paidworks 
-- Quantative Reasearch Intern @ Lewis Unviersity
 - Undergraduate Teaching Assistant @ Lewis University 
 - SWE Intern @ Stealth Startup
 
