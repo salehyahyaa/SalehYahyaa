@@ -1,18 +1,13 @@
 **M.S Computer Science @ UIUC | B.S Computer Science, Information Technology @ LU**
 ---
 
-**Currently** 
+
+**Experience**
 ---
-
-
-- SWE OS @ Chromium
-
-
-**Previously**
----
-- MLE Intern @ Paidworks 
-- Undergraduate Teaching Assistant @ Lewis University 
-- SWE Intern @ Stealth Startup
+- SWE OS @ Chromium (Google)
+- EX MLE Intern @ Paidworks 
+- EX Undergraduate Teaching Assistant @ Lewis University 
+- EX SWE Intern @ Stealth Startup
 
 **Primary Tech Stack**
 ---
