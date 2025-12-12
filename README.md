@@ -8,6 +8,5 @@ I'm a computer science student headed to UIUC in Champaign, IL for my master's. 
 - LinkedIn: [https://www.linkedin.com/in/salehyahya1/](https://www.linkedin.com/in/salehyahya1/)
 
 
-<br>
-**Check out some of my favorite projects in the pinned section below!**
+<br>**Check out some of my favorite projects in the pinned section below!**
 
