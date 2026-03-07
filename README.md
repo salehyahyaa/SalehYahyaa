@@ -1,6 +1,6 @@
 **Hey, I'm Saleh!**
 ---
-I'm a Computer Science student headed to UIUC in Champaign, IL for my master's. I specialize in backend with a strong interest in growth using C++ or Python. I've worked across the board from backend infrastructure to implementing performance sensitive data. I'm deeply product driven and focused on delivering quality, high performance software.
+I'm a Computer Science student headed to UIUC in Champaign, IL for my master's. I specialize in backend with a strong interest in growth using C++ && Python. I've worked across the board from backend infrastructure to implementing performance sensitive data. I'm deeply product driven and focused on delivering quality, high performance software.
 
 <details>
   <summary>Contact Information</summary>
