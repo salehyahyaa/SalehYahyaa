@@ -6,7 +6,7 @@ I'm a Computer Science student headed to UIUC in Champaign, IL for my master's. 
   <summary>Contact Information</summary>
 
 - Email: [salehyahya10.20@gmail.com](mailto:salehyahya10.20@gmail.com)  
-- LinkedIn: [inkedin.com/in/salehyahyaa](https://www.linkedin.com/in/salehyahyaa/)
+- LinkedIn: [linkedin.com/in/salehyahyaa](https://www.linkedin.com/in/salehyahyaa/)
 - Portfolio: [salehyahyaa.com](https://salehyahyaa.com)
 </details>
 
