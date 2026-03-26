@@ -14,4 +14,4 @@ Dual major undergraduate student headed to UIUC for my master's in Computer Scie
 <br>**Check out some of my favorite projects below!**<br>
 
 <br>![Profile Views](https://komarev.com/ghpvc/?username=salehyahyaa&color=blue) 
-![GitHub followers](https://img.shields.io/github/followers/salehyahyaa?label=Followers&style=social)
+![GitHub follow](https://img.shields.io/github/followers/salehyahyaa?label=Follow&style=social)
