@@ -1,6 +1,6 @@
 **Hey, I'm Saleh!**
 ---
-Dual major undergraduate student headed to UIUC for my master's in Computer Science. I specialize in backend with a strong interest in growth using C++ and Python. I've worked across the board from backend infrastructure to implementing performance sensitive data. I'm deeply product driven and focused on delivering quality, high performance software.
+Dual major undergraduate student for Computer Science and Information Technology. I specialize in backend with a strong interest in growth using C++ and Python. I've worked across the board from backend infrastructure to implementing performance sensitive data. I'm deeply product driven and focused on delivering quality, high performance software.
 
 <details>
   <summary>Contact Information</summary>
