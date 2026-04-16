@@ -1,5 +1,6 @@
-**B.S Computer Science, B.S Information Technology!**
----I specialize in backend with a strong interest in growth using C++ & Python. I've worked across the board from backend infrastructure to implementing low performance data.
+**B.S Computer Science, B.S Information Technology**
+---
+I specialize in backend with a strong interest in growth using C++ & Python. I've worked across the board from backend infrastructure to implementing low performance data.
 
 
 
