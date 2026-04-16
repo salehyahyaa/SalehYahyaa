@@ -29,7 +29,7 @@ Dual major undergraduate student in Computer Science and Information Technology.
   <summary><b>Tooling</b> - Utility tools and automation scripts</summary>
   
 - [AutoMsg](https://github.com/salehyahyaa/AutoMsg) - Automates sending group-specific messages to contacts delivered individually via Apple iMessages (Python)
-- [DesktopAligner](https://github.com/salehyahyaa/DesktopAligner) - macOS Quick Action integrated tool that aligns selected files vertically for visual document organization (Python)
+- [DesktopAligner](https://github.com/salehyahyaa/DesktopAligner) - macOS Quick Action integrated tool that aligns selected files vertically for visual folder organization (Python)
 </details>
 
 
