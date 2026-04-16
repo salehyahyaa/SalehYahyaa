@@ -8,7 +8,7 @@ Dual major undergraduate student in Computer Science and Information Technology.
 <details>
   <summary><b>Product</b> - User facing applications</summary>
   
-- [Automated_Financial_Intelligence_Engine](https://github.com/salehyahyaa/Automated_Financial_Intelligence_Engine) - Personal finance automation with natural language querying over real data (Python)
+- [Automated_Financial_Intelligence_Engine](https://github.com/salehyahyaa/Automated_Financial_Intelligence_Engine) - Personal finance automation with natural language querying over data (Python)
 </details>
 
 <details>
