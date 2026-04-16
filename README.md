@@ -7,21 +7,21 @@ Dual major undergraduate student for Computer Science and Information Technology
 <details>
   <summary><b>Production</b> - User facing applications</summary>
   
-- [Automated_Financial_Intelligence_Engine](https://github.com/salehyahyaa/Automated_Financial_Intelligence_Engine) - Personal finance automation with natural language querying over real data | Python
+- [Automated_Financial_Intelligence_Engine](https://github.com/salehyahyaa/Automated_Financial_Intelligence_Engine) - Personal finance automation with natural language querying over real data (Python)
 </details>
 
 <details>
   <summary><b>Systems</b> - low level and OS development</summary>
   
-- [LimitOrderMatchingSystem](https://github.com/salehyahyaa/LimitOrderMatchingSystem) - Financial matching engine with strict price-time priority | C++
-- [Lock-Free-MPMC-Queue](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - ... | C++
-- [MarketDataSimulator](https://github.com/salehyahyaa/MarketDataSimulator) - ... | C++
+- [LimitOrderMatchingSystem](https://github.com/salehyahyaa/LimitOrderMatchingSystem) - Financial matching engine with strict price-time priority (C++)
+- [Lock-Free-MPMC-Queue](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - ... (C++)
+- [MarketDataSimulator](https://github.com/salehyahyaa/MarketDataSimulator) - ... (C++)
 </details>
 
 <details>
   <summary><b>Tooling</b> - Utility tools and automation scripts</summary>
   
-- [AutoMsg](https://github.com/salehyahyaa/AutoMsg) - Automates sending group-specific messages to contacts delivered individually via Apple iMessages | Python
+- [AutoMsg](https://github.com/salehyahyaa/AutoMsg) - Automates sending group-specific messages to contacts delivered individually via Apple iMessages (Python)
 </details>
 
 <details>
