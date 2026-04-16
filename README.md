@@ -26,7 +26,7 @@ Dual major undergraduate student in Computer Science and Information Technology.
 </details>
 
 <details>
-  <summary><b>Applets</b> - Utility tools and automation scripts</summary>
+  <summary><b>tooling</b> - Utility tools and automation scripts</summary>
   
 - [AutoMsg](https://github.com/salehyahyaa/AutoMsg) - Automates sending group-specific messages to contacts delivered individually via Apple iMessages (Python)
 </details>
