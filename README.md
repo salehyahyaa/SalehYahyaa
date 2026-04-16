@@ -22,7 +22,7 @@ Dual major undergraduate student in Computer Science and Information Technology.
   
 - [LimitOrderMatchingSystem](https://github.com/salehyahyaa/LimitOrderMatchingSystem) - Financial matching engine with strict price-time priority (C++)
 - [Lock-Free-MPMC-Queue](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - ... (C++)
-- [MarketDataSimulator](https://github.com/salehyahyaa/MarketDataSimulator) - ... (C++)
+- [MarketDataSimulator](https://github.com/salehyahyaa/MarketDataSimulator) - Client-server simulator generating market data streams for testing trading systems (C++)
 </details>
 
 <details>
