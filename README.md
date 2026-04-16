@@ -2,14 +2,6 @@
 ---
 Dual major undergraduate student in Computer Science and Information Technology. I specialize in backend with a strong interest in growth using C++ and Python. I've worked across the board from backend infrastructure to implementing performance sensitive data.
 
-<details>
-  <summary><b>Contact Information</b></summary>
-  
-- Email: [salehyahya10.20@gmail.com](mailto:salehyahya10.20@gmail.com)  
-- LinkedIn: [linkedin.com/in/salehyahyaa](https://www.linkedin.com/in/salehyahyaa/)
-- Portfolio: [salehyahyaa.com](https://salehyahyaa.com)
-</details>
-
 
 
 **Public Projects Index**
