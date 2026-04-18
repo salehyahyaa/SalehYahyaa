@@ -1,6 +1,6 @@
 **Hey, I'm Saleh!**
 ---
-Dual major undergraduate student in Computer Science and Information Technology. I specialize in backend with a strong interest in growth using C++ and Python. 
+Dual major student in Computer Science and Information Technology. I specialize in backend with a strong interest in growth using C++ and Python. 
 
 
 **Public Projects Index**
