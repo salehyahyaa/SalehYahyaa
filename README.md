@@ -1,4 +1,4 @@
-**B.S. Computer Science, B.S. Information Technology**
+**B.S. Computer Science | B.S. Information Technology**
 ---
 
 **Public Projects Index**
