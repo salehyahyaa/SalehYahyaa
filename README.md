@@ -9,6 +9,7 @@ Dual major student in Computer Science & Information Technology. I specialize in
   <summary><b>Product</b> - User facing applications</summary>
   
 - [Automated_Financial_Intelligence_Engine](https://github.com/salehyahyaa/Automated_Financial_Intelligence_Engine) - Personal finance automation with natural language querying over data (Python)
+- [GUI-AI-Overlay](https://github.com/salehyahyaa/GUI-AI-Overlay) - Raycast inspired AI GUI that removes tab switching/searching to speeds up daily workflows (Python)
 </details>
 
 <details>
