@@ -1,7 +1,5 @@
-**Hey, I'm Saleh!**
+**B.S. Computer Science, B.S. Information Technology**
 ---
-Dual major in Computer Science & Information Technology. I specialize in backend with a strong interest in Python & C++. 
-
 
 **Public Projects Index**
 ---
