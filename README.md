@@ -1,6 +1,5 @@
-<h2 align="center">
-B.S. Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. Information Technology
-</h2>
+## B.S. Computer Science | B.S. Information Technology
+
 
 **Public Projects Index**
 ---
