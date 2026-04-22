@@ -30,7 +30,7 @@
 - [AutoMsg](https://github.com/salehyahyaa/AutoMsg) - Automates sending group-specific messages to contacts delivered individually via Apple iMessages (Python)
 - [DesktopAligner](https://github.com/salehyahyaa/DesktopAligner) - MacOS Quick Action integrated tool that aligns selected files vertically for visual folder organization (Python)
 - [instagram_unfollower](https://github.com/salehyahyaa/instagram_unfollower) - Bot that unfollows anyone who stops following you back via daily audit (Python)
-- - [Desktop Cleaner](https://github.com/salehyahyaa/desktopCleaner) - Deletes all loose files on desktop homepage and clears trash bin (Python) --REALSEING 4/22/2026
+- [Desktop Cleaner](https://github.com/salehyahyaa/desktopCleaner) - Deletes all loose files on desktop homepage and clears trash bin (Python) --REALSEING 4/22/2026
 </details>
 
 
