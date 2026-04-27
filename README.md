@@ -13,14 +13,13 @@
 <details>
   <summary><b>Research</b> - Coming Soon :) </summary>
   
-- Coming Soon
+- [Lock-Free-MPMC-Queue](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - Coming Soon (C++)
 </details>
 
 <details>
   <summary><b>Systems</b> - Low level and OS programming</summary>
   
 - [LimitOrderMatchingSystem](https://github.com/salehyahyaa/LimitOrderMatchingSystem) - Financial matching engine with strict price-time priority (C++)
-- [Lock-Free-MPMC-Queue](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - Lock free queue for multi threaded producer-consumer pipelines (C++)
 - [MarketDataSimulator](https://github.com/salehyahyaa/MarketDataSimulator) - Client-server simulator generating market data streams for testing trading systems (C++)
 </details>
 
