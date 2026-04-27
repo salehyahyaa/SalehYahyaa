@@ -11,9 +11,9 @@
 </details>
 
 <details>
-  <summary><b>Research</b> - Coming Soon :) </summary>
+  <summary><b>Research</b> - Concurrent data structure performance tradeoffs </summary>
   
-- [Lock-Free-MPMC-Queue](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - Evaluating queue types for performance tradeoffs (C++)
+- [Lock-Free-MPMC-Queue](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - Evaluating differnt queue types for performance tradeoffs (C++)
 </details>
 
 <details>
