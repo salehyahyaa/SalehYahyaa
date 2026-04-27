@@ -13,7 +13,7 @@
 <details>
   <summary><b>Research</b> - Coming Soon :) </summary>
   
-- [Lock-Free-MPMC-Queue](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - Coming Soon (C++)
+- [Lock-Free-MPMC-Queue](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - Evaluating queue types for performance tradeoffs (C++)
 </details>
 
 <details>
