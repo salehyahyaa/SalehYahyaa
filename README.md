@@ -12,7 +12,7 @@
 <details>
   <summary><b>Research</b> - Concurrent data structure benchmarking </summary>
   
-- [Lock-Free-MPMC-Queue](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - Benchmarking of concurrent queue implementations and performance tradeoffs (C++) ([Paper](https://www.researchgate.net/publication/404301162_Concurrent_Queue_Performance_Benchmarking))
+- [mpmc-queue-benchmarking](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - Benchmarking of concurrent queue implementations and performance tradeoffs (C++) ([Paper](https://www.researchgate.net/publication/404301162_Concurrent_Queue_Performance_Benchmarking))
 </details>
 
 <details>
