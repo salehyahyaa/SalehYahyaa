@@ -5,7 +5,7 @@
 <details>
   <summary><b>Product</b> - User facing applications</summary>
   
-- [Luminy](https://github.com/salehyahyaa/Luminy) ([External](https://luminyy.com)) - Personal finance automation with natural language querying over data (Python)
+- [Luminy](https://github.com/salehyahyaa/Luminyy) ([External](https://luminyy.com)) - Personal finance automation with natural language querying over data (Python)
 - [GUI-AI-Overlay](https://github.com/salehyahyaa/GUI-AI-Overlay) - Raycast inspired AI GUI that removes tab switching/searching to speeds up daily workflows (Python)
 </details>
 
