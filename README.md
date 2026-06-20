@@ -12,7 +12,7 @@
 <details>
   <summary><b>Systems</b> - Low level and OS programming</summary>
 
-- [mpmc-queue-benchmarking](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) - Research benchmarking concurrent queue throughput & performance tradeoffs (C++) ([Paper](https://www.researchgate.net/publication/404301162_Concurrent_Queue_Performance_Benchmarking))  
+- [mpmc-queue-benchmarking](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) ([Paper](https://www.researchgate.net/publication/404301162_Concurrent_Queue_Performance_Benchmarking)) - Research benchmarking concurrent queue throughput & performance tradeoffs (C++) (Python)  
 - [LimitOrderMatchingSystem](https://github.com/salehyahyaa/LimitOrderMatchingSystem) - Financial matching engine with strict price-time priority (C++)
 - [MarketDataSimulator](https://github.com/salehyahyaa/MarketDataSimulator) - Client-server simulator generating market data streams for testing trading systems (C++)
 </details>
