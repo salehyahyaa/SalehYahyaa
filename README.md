@@ -12,8 +12,8 @@
 <details>
   <summary><b>Publications</b> - Co-first author research publications</summary>
 
-- Publication w/ John honkins University coming 08/2026
-- [mpmc-queue-benchmarking](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) ([Paper](https://www.researchgate.net/publication/404301162_Concurrent_Queue_Performance_Benchmarking)) - Research benchmarking concurrent queue throughput & performance tradeoffs (C++)
+- Publication w/ John honkins University coming 08/2026 (Python)
+- [mpmc-queue-benchmarking](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) ([Paper](https://www.researchgate.net/publication/404301162_Concurrent_Queue_Performance_Benchmarking)) - Benchmarking concurrent queue throughput & performance tradeoffs (C++, Python)
 </details>
 
 <details>
