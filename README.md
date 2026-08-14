@@ -12,7 +12,7 @@
 <details>
   <summary><b>Publications</b> - First author research publications</summary>
 
-- [Evaluating Frontier LLMs via Combative Strategic Reasoning](https://salehyahyaa.com/images/IIJ-JPM-S-26-00429_submission.pdf) - Johns Hopkins University & Journal of Portfolio Management (Python) (Pending Review)
+- [Evaluating Frontier LLMs by Combative Strategic Reasoning](https://salehyahyaa.com/images/IIJ-JPM-S-26-00429_submission.pdf) - Johns Hopkins University & Journal of Portfolio Management (Python) (Pending Review)
 - [mpmc-queue-benchmarking](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) ([Paper](https://www.researchgate.net/publication/404301162_Concurrent_Queue_Performance_Benchmarking)) - Benchmarking concurrent queue throughput & performance tradeoffs (C++, Python)
 </details>
 
