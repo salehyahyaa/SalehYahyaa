@@ -12,7 +12,7 @@
 <details>
   <summary><b>Publications</b> - First author research publications</summary>
 
-- NameHere (Pending Reivew The Journal of Portfolio Management) w/ Johns hopkins University (Python)
+- Evaluating Frontier LLMs via Competitive Strategic Reasoning (The Journal of Portfolio Management) w/ Johns hopkins University (Python) (Pending Reivew)
 - [mpmc-queue-benchmarking](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) ([Paper](https://www.researchgate.net/publication/404301162_Concurrent_Queue_Performance_Benchmarking)) - Benchmarking concurrent queue throughput & performance tradeoffs (C++, Python)
 </details>
 
