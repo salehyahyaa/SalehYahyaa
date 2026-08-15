@@ -10,7 +10,7 @@
 </details>
 
 <details>
-  <summary><b>Publications</b> - First author research publications</summary>
+  <summary><b>Publications</b> - First author research</summary>
 
 - [Evaluating Frontier LLMs via Competitive Strategic Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7272558) - Johns Hopkins & Journal of Portfolio Management (Python) (Pending Review)
 - [mpmc-queue-benchmarking](https://github.com/salehyahyaa/Lock-Free-MPMC-Queue) ([Paper](https://www.researchgate.net/publication/404301162_Concurrent_Queue_Performance_Benchmarking)) - Benchmarking concurrent queue throughput & performance tradeoffs (C++, Python)
